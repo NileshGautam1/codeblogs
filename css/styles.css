@@ -1,0 +1,6 @@
+body{
+  background: #A8A4CE;
+}
+.nav-grad{
+  background-image:linear-gradient(to right,#231955, #495C83);
+}
